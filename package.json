@@ -1,0 +1,14 @@
+{
+  "name": "test-ssr-vue",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "node server"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^2.3.1",
+    "express": "^4.17.3",
+    "vite": "^2.9.1",
+    "vue": "^3.2.25"
+  }
+}
